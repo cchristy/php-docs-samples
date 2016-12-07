@@ -25,6 +25,7 @@ namespace Google\Cloud\Samples\BigQuery;
 
 # [START all]
 use Google\Cloud\BigQuery\BigQueryClient;
+use Exception;
 
 /**
  * Run a BigQuery query.
